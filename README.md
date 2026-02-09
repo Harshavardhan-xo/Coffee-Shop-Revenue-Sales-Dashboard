@@ -30,3 +30,24 @@ This project focuses on analyzing sales data using **Advanced Microsoft Excel**.
 - Top-Selling Products
 - Category-wise Sales Distribution
 - Sales Contribution by Region (if applicable)
+
+---
+
+## 🚀 How to Use
+1. Download the Excel files from the repository.
+2. Open the dashboard file in Microsoft Excel.
+3. Use slicers and filters to interact with the dashboard.
+4. Analyze trends and insights visually.
+
+---
+
+## 🎯 Project Outcome
+- Improved data readability and insight generation
+- Reduced manual analysis effort using pivot automation
+- Enabled faster business decisions through visual dashboards
+
+---
+
+## 📬 Contact
+**Harsha Vardhan**  
+Aspiring Data Analyst  
